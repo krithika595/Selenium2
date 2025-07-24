@@ -1,0 +1,43 @@
+package Day18;
+
+import java.io.File;
+import java.time.Duration;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class CaptureScreenshot {
+
+	public static void main(String[] args) {
+		WebDriver driver=new ChromeDriver();
+		
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		
+		driver.get("https://demo.nopcommerce.com/");
+		driver.manage().window().maximize();
+
+		//1)Full page screenshot
+		/*TakesScreenshot ts= (TakesScreenshot) driver;
+		
+		File sourcefile=ts.getScreenshotAs(OutputType.FILE);
+		File targetFile=new File(System.getProperty("user.dir")+"\\screenshots\\fullpage.png");
+		sourcefile.renameTo(targetFile); //copy sourcefile to target file
+		
+		//2)screenshot of specific area
+		WebElement featuredProduct=driver.findElement(By.xpath("//div[@class='product-grid home-page-product-grid']"));
+		File sourcefile=featuredProduct.getScreenshotAs(OutputType.FILE);
+		File targetFile=new File(System.getProperty("user.dir")+"\\screenshots\\featuredProduct.png");
+		sourcefile.renameTo(targetFile);//copy sourcefile to target file
+		*/
+		//3)capture screenshot of webelement
+		WebElement logo=driver.findElement(By.xpath("//img[@alt='nopCommerce demo store']"));
+		File sourcefile=logo.getScreenshotAs(OutputType.FILE);
+		File targetfile=new File(System.getProperty("user.dir")+"\\screenshots\\logo.png");
+		sourcefile.renameTo(targetfile);//copy sourcefile to target file
+	}
+
+}

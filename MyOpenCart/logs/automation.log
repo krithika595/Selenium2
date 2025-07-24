@@ -1,0 +1,53 @@
+2025-07-21 16:38:38 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 16:38:43 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:38:46 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:49:37 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 16:49:50 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:49:52 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:51:21 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\crossbrowser.xml
+
+2025-07-21 16:51:25 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:51:27 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:51:30 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:51:33 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:51:40 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:51:43 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:52:10 INFO  Utils:112 - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2025-07-21 16:52:10 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\crossbrowser.xml
+
+2025-07-21 16:52:26 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:52:28 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:52:31 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:52:33 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:52:40 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:52:42 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 16:53:23 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\crossbrowser.xml
+
+2025-07-21 16:53:28 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:53:28 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:53:34 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 16:53:37 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 17:03:02 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 17:03:07 INFO  TC001_AccountRegistrationTest:15 - ***** TC001 started ****
+2025-07-21 17:03:09 INFO  TC001_AccountRegistrationTest:40 - ***** TC001 ended****
+2025-07-21 19:56:00 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 19:57:27 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 19:58:15 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
+2025-07-21 21:46:11 INFO  Utils:112 - [TestNG] Running:
+  D:\AK_Automation\eclipse-java-2025-03-R-win32-x86_64\MyOpenCart\testng.xml
+
