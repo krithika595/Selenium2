@@ -1,0 +1,82 @@
+2025-09-12 12:11:50 INFO  FacebookLoginTest - Launching browser: firefox
+2025-09-12 12:11:50 INFO  FacebookLoginTest - Launching browser: chrome
+2025-09-12 12:12:45 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:12:45 INFO  FacebookLoginPage - Locating element with XPath: //input[@id='email']
+2025-09-12 12:12:47 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:12:47 INFO  FacebookInvalidLoginTest - Launching browser: chrome
+2025-09-12 12:12:55 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:12:55 INFO  FacebookLoginPage - Locating element with XPath: //input[@id='email']
+2025-09-12 12:12:56 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 12:13:55 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:13:55 INFO  FacebookLoginPage - Locating element with XPath: //input[@id='email']
+2025-09-12 12:14:03 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:14:03 INFO  FacebookInvalidLoginTest - Launching browser: firefox
+2025-09-12 12:14:17 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:14:17 INFO  FacebookLoginPage - Locating element with XPath: //input[@id='email']
+2025-09-12 12:14:25 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 12:30:25 INFO  FacebookLoginTest - Launching browser: firefox
+2025-09-12 12:30:25 INFO  FacebookLoginTest - Launching browser: chrome
+2025-09-12 12:30:35 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:30:46 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:30:47 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:30:47 INFO  FacebookInvalidLoginTest - Launching browser: chrome
+2025-09-12 12:30:55 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:31:00 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:31:00 INFO  FacebookInvalidLoginTest - Launching browser: firefox
+2025-09-12 12:31:08 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 12:31:16 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:31:23 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 12:33:08 INFO  FacebookLoginTest - Launching browser: chrome
+2025-09-12 12:33:08 INFO  FacebookLoginTest - Launching browser: firefox
+2025-09-12 12:33:17 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:33:28 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:33:28 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:33:28 INFO  FacebookInvalidLoginTest - Launching browser: chrome
+2025-09-12 12:33:36 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:33:37 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 12:33:37 INFO  FacebookInvalidLoginTest - Launching browser: firefox
+2025-09-12 12:33:45 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 12:33:53 INFO  FacebookInvalidLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 12:33:59 INFO  FacebookInvalidLoginTest - Browser closed.
+2025-09-12 16:08:12 INFO  FacebookLoginTest - Launching browser: firefox
+2025-09-12 16:08:12 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:08:23 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:08:32 INFO  FacebookLoginTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:08:40 INFO  FacebookLoginTest - Browser closed.
+2025-09-12 16:08:42 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 16:12:25 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:12:33 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:12:49 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 16:16:51 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:16:58 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:17:16 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 16:19:06 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:19:14 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:19:32 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 16:23:56 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:24:05 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:24:13 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 16:43:59 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 16:44:07 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 16:44:15 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 17:14:40 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 17:14:50 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 17:14:58 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 17:40:22 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 17:40:32 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 17:40:34 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 17:47:33 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 17:47:42 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 17:47:44 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 17:48:54 INFO  FacebookCreateAccountTest - Launching browser: chrome
+2025-09-12 17:49:02 INFO  FacebookCreateAccountTest - Navigated to URL: https://www.facebook.com/
+2025-09-12 17:49:10 INFO  FacebookCreateAccountTest - Browser closed.
+2025-09-12 22:00:04 INFO  OCRegisterAccountTest - Launching browser: chrome
+2025-09-12 22:00:13 INFO  OCRegisterAccountTest - Navigated to URL: https://tutorialsninja.com/demo/
+2025-09-12 22:00:18 INFO  OCRegisterAccountTest - Browser closed.
+2025-09-12 22:01:16 INFO  OCRegisterAccountTest - Launching browser: chrome
+2025-09-12 22:01:22 INFO  OCRegisterAccountTest - Navigated to URL: https://tutorialsninja.com/demo/
+2025-09-12 22:01:25 INFO  OCRegisterAccountTest - Browser closed.
+2025-09-12 22:28:52 INFO  OCRegisterAccountTest - Launching browser: chrome
+2025-09-12 22:28:59 INFO  OCRegisterAccountTest - Navigated to URL: https://tutorialsninja.com/demo/
+2025-09-12 22:29:05 INFO  OCRegisterAccountTest - Browser closed.
